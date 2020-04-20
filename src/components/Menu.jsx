@@ -8,10 +8,10 @@ const Menu = ()=>{
 				<li><a href="">Inicio</a></li>
 				<li><a href="">Tablas</a>
 					<ul>
-						<li><a href="">Usuarios</a></li>
-						<li><a href="">Medicamentos</a></li>
-						<li><a href="">Horarios</a></li>
-						<li><a href="">Dias</a>
+						<li><a href="#users">Usuarios</a></li>
+						<li><a href="#medicines">Medicamentos</a></li>
+						<li><a href="#schedules">Horarios</a></li>
+						<li><a href="#days">Dias</a>
 
 						</li>
 					</ul>

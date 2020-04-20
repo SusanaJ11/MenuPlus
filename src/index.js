@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import '../src/components/API';
 //import axios from "axios";
 import * as serviceWorker from './serviceWorker';
 
